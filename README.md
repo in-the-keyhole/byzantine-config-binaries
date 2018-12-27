@@ -1,6 +1,6 @@
 # Byzantine-config
-Hyperledger Fabric Organization Manager
 
+Hyperledger fabric configuration and organization update manager. 
 
 
 
