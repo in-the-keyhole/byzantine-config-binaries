@@ -1,8 +1,14 @@
 # Byzantine-config
 
-Hyperledger fabric configuration and organization update manager. 
+Hyperledger fabric configuration and organization update GUI based executable application. 
 
+### Installation 
 
+Download desired platform installation binary and execute. 
+
+### Source Code 
+
+Source code can be found at this repository [https://github.com/in-the-keyhole/byzantine-config-source](https://github.com/in-the-keyhole/byzantine-config-source)
 
 ### Usage 
 
