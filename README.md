@@ -1,6 +1,6 @@
 # Byzantine-config
 
-Hyperledger fabric configuration and organization update GUI based executable application. 
+GUI based executable application that allows Hyperledger Fabric (HLF) configuration transactions to be created to update channel configurations and adding organizations to an HLF network.
 
 ### Installation 
 
@@ -24,7 +24,7 @@ Once connected the current configuration block is displayed...
 ![](images/config-block.png)
 
 
-Clicking the `add` and an org link will prompt for new Org name and properties, input desired values then click generate.
+Clicking the `add` and an org link will prompt for new Org name and properties, input desired values then click generate. You can also click `edit` to change current configuration
 
 ![](images/add-org.png)
 
