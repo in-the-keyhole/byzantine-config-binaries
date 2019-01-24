@@ -4,7 +4,7 @@ GUI based executable application that allows Hyperledger Fabric (HLF) configurat
 
 ### Installation 
 
-Download desired platform installation binary and execute. `Note`, it you CLONE this repo executable binaries will not work, since we are using the large file plugin to handle. Download desired platform binary. 
+Download desired platform installation binary and execute. `Note`, it you `CLONE` this repo executable binaries will not work, since we are using the large file plugin to handle. Download desired platform binary. 
 
 ### Source Code 
 
