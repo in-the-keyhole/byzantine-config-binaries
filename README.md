@@ -1,6 +1,6 @@
 # Byzantine-config
 
-GUI based executable application that allows Hyperledger Fabric (HLF) configuration transactions to be created to update channel configurations and adding organizations to an HLF network.
+GUI based executable application that allows Hyperledger Fabric (HLF) configuration blocks to be viewed and updated transactions created for channel configuration, adding new organizations, and generating crypto material.
 
 ### Installation 
 
