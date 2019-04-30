@@ -8,7 +8,7 @@ Download desired platform installation binary and execute. `Note`, it you `CLONE
 
 ### Source Code 
 
-Source code can be found at this repository [https://github.com/in-the-keyhole/byzantine-config-source](https://github.com/in-the-keyhole/byzantine-config-source)
+Source code can be found at this repository [https://github.com/hyperledger-labs/byzantine-config](https://github.com/hyperledger-labs/byzantine-config)
 
 ### Usage 
 
